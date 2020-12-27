@@ -27,31 +27,59 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Agile Software Development" 
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Requirements gathering"
+        desc: "In this phase, we define the User requirements like:<br>
+          Web(backend/Frontend) <br> 
+          Desktop(Winndows / Mac) <br> 
+          Mobile(iOS / Android) <br>
+          Hybrid Apps  <br>
+          Games and different Software"
+        image : 
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Design"
+        desc: "Design Better in an iterative approach to user interface design Using: <br>
+        Rapid 
+        prototyping <br>
+        Product 
+        Design <br>
+        UX/UI Design<br>
+        MVP
+        Design"
+        image: 
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Construction"
+       
+        desc: "The work begins. We start working on the project. The aims of our designers and developers is to deploy the working product within the estimated time. The product will go into various stages of improvement, so it includes simple, minimal functionality."
+        image: 
+        alt: 
+      - title: "Testing"
+        desc: " Our Quality Assurance team examine the product's performance Using:<br>
+        Functionality 
+        Testing <br>
+        Compatibility
+        Testing <br>
+        Website 
+        Testing <br>
+        Mobile Device 
+        Testing <br>
+ "
+        image: 
+        alt: 
+      - title: "Deployement"
+        desc: " When our project team tests the product and the product passes each testing phase, the product is ready to go live. This means that the product is ready to be used in a real environment. 
+        "
+        image: 
+        alt: 
+      - title: "Feedback"
+        desc: " After releasing of the product, the last step is to feedback it. In this step, our team receives feedback about the product and works through the feedback.
+"
+        image: 
         alt: 
         # you can enforce the aligment
         align: right
