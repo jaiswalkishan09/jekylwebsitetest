@@ -8,18 +8,18 @@
   <section class="page-section" id="{{ site.data.sitetext.about.section | default: "about" }}">
  <!-- **** About Section **** -->
  <div class="container-fluid" id="kis1">
-  <div class="container"  style="margin-top: 15px;" >
-    <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "about" }}</h2>
+  <div class="container"  >
+    <!-- <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "about" }}</h2>
     {% if site.data.sitetext.about.text %}
-<h3 class="section-subheading text-muted">{{ site.data.sitetext.services.text }}</h3>
+<h3 class="section-subheading text-muted">{{ site.data.sitetext.services.text }}</h3> -->
 {% endif %}
     <div class="row about-wrapper">
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__image">
           <img
             class="img-fluid rounded shadow-lg"
-            height="auto"
-            width="300px"
+            height="100%"
+            width="100%"
             src="./assets/img/aboutus.png"
             alt="Profile Image"
           />
