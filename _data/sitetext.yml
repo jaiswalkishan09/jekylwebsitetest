@@ -6,18 +6,19 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: " "
     section: services
     list:
       - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "We build eCommerce software like  Wireframe Creation & Discovery,Custom Website Design,E-Commerce Shopping Cart Applications & Many Other eCommerce Services development and solutions."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Everything we build is responsive software for DESKTOP, TABLET, and MOBILE by designing websites that adapt to any device, designers and developers."
+        icon: fas fa-tablet-alt
+      - title: "Software Maintainaince"
+        desc: "Allow us to give you a statement on fixing your site issues. Regardless of whether you're a huge or a private venture, we offer site upkeep to meet your requirements."
+        icon: fas fa-tools
+            
 
 portfolio:
     title: "Portfolio"
